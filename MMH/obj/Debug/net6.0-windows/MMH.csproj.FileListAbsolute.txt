@@ -1,0 +1,38 @@
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\bin\Debug\net6.0-windows\MMH.exe
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\bin\Debug\net6.0-windows\MMH.deps.json
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\bin\Debug\net6.0-windows\MMH.runtimeconfig.json
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\bin\Debug\net6.0-windows\MMH.dll
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\bin\Debug\net6.0-windows\MMH.pdb
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\obj\Debug\net6.0-windows\MMH.csproj.AssemblyReference.cache
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\obj\Debug\net6.0-windows\MMH.csproj.GenerateResource.cache
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\obj\Debug\net6.0-windows\MMH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\obj\Debug\net6.0-windows\MMH.AssemblyInfoInputs.cache
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\obj\Debug\net6.0-windows\MMH.AssemblyInfo.cs
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\obj\Debug\net6.0-windows\MMH.csproj.CoreCompileInputs.cache
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\obj\Debug\net6.0-windows\MMH.dll
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\obj\Debug\net6.0-windows\refint\MMH.dll
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\obj\Debug\net6.0-windows\MMH.pdb
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\obj\Debug\net6.0-windows\MMH.genruntimeconfig.cache
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\obj\Debug\net6.0-windows\ref\MMH.dll
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\obj\Debug\net6.0-windows\MMH.Form3.resources
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\obj\Debug\net6.0-windows\MMH.Form3_ClientThread.resources
+D:\Documents\Learning materials\HK4\Cryptography\Excercise\MMH\MMH\obj\Debug\net6.0-windows\MMH.Form3_ServerThread.resources
+C:\Users\votru\Downloads\MMH\MMH\bin\Debug\net6.0-windows\MMH.exe
+C:\Users\votru\Downloads\MMH\MMH\bin\Debug\net6.0-windows\MMH.deps.json
+C:\Users\votru\Downloads\MMH\MMH\bin\Debug\net6.0-windows\MMH.runtimeconfig.json
+C:\Users\votru\Downloads\MMH\MMH\bin\Debug\net6.0-windows\MMH.dll
+C:\Users\votru\Downloads\MMH\MMH\bin\Debug\net6.0-windows\MMH.pdb
+C:\Users\votru\Downloads\MMH\MMH\obj\Debug\net6.0-windows\MMH.csproj.AssemblyReference.cache
+C:\Users\votru\Downloads\MMH\MMH\obj\Debug\net6.0-windows\MMH.Form3.resources
+C:\Users\votru\Downloads\MMH\MMH\obj\Debug\net6.0-windows\MMH.Form3_ClientThread.resources
+C:\Users\votru\Downloads\MMH\MMH\obj\Debug\net6.0-windows\MMH.Form3_ServerThread.resources
+C:\Users\votru\Downloads\MMH\MMH\obj\Debug\net6.0-windows\MMH.csproj.GenerateResource.cache
+C:\Users\votru\Downloads\MMH\MMH\obj\Debug\net6.0-windows\MMH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\votru\Downloads\MMH\MMH\obj\Debug\net6.0-windows\MMH.AssemblyInfoInputs.cache
+C:\Users\votru\Downloads\MMH\MMH\obj\Debug\net6.0-windows\MMH.AssemblyInfo.cs
+C:\Users\votru\Downloads\MMH\MMH\obj\Debug\net6.0-windows\MMH.csproj.CoreCompileInputs.cache
+C:\Users\votru\Downloads\MMH\MMH\obj\Debug\net6.0-windows\MMH.dll
+C:\Users\votru\Downloads\MMH\MMH\obj\Debug\net6.0-windows\refint\MMH.dll
+C:\Users\votru\Downloads\MMH\MMH\obj\Debug\net6.0-windows\MMH.pdb
+C:\Users\votru\Downloads\MMH\MMH\obj\Debug\net6.0-windows\MMH.genruntimeconfig.cache
+C:\Users\votru\Downloads\MMH\MMH\obj\Debug\net6.0-windows\ref\MMH.dll
